@@ -14,7 +14,7 @@ The purpose of the application is to allow customers to create an entry in the p
 We had to design and implement 10 different features. The first 5 features were all individuals and last 5 features, we had to work together to implement them. All of the features had to be implemented using Oracle PL\SQL. The data that we used for the testing were all dummy.
 
 ### ER Diagram:
-![Picture of ER Diagram for the Parking Payment Management Database](er_diagram.jpeg)
+![Picture of ER Diagram for the Parking Payment Management Database](er-diagram.png)
 
 ### Features:
 1. Creating new customers
